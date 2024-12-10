@@ -8,7 +8,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 @Service
-@Slf4j
+@Slf4j //log를 찍을 수 있다.
 public class QuickService {
 
     @Autowired
